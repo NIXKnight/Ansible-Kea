@@ -1,0 +1,13 @@
+dependencies: []
+galaxy_info:
+  author: Saad Ali
+  description: Install and configure Kea DHCP
+  license: license (MIT)
+  min_ansible_version: 2.10
+  platforms:
+  - name: Debian
+    versions:
+      - buster
+  galaxy_tags:
+    - kea
+    - dhcp
